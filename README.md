@@ -1,6 +1,6 @@
 # Sistema de Gestão Operacional e Controle de Doações (MVP)
 
-Projeto desenvolvido no âmbito do curso de *Análise e Desenvolvimento de Sistemas (Senac EAD)* por *Maria Vitória Ergang Menezes*.
+Projeto desenvolvido no âmbito do curso de *Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul)* por *Maria Vitória Ergang Menezes*.
 
 ---
 
